@@ -1,0 +1,192 @@
+[01-Aug-2025 14:37:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:37:44 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:37:45 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:37:46 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:37:47 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:14 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/chicken1/public_html/pay.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/pay.php on line 13
+[01-Aug-2025 14:38:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/chicken1/public_html/pay.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/pay.php on line 13
+[01-Aug-2025 14:38:29 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/chicken1/public_html/pay.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/pay.php on line 13
+[01-Aug-2025 14:38:34 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:35 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:36 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:37 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "₹_SESSION" in /home/chicken1/public_html/bonus.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/bonus.php on line 15
+[01-Aug-2025 14:38:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:43 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:44 UTC] PHP Warning:  Undefined array key 5 in /home/chicken1/public_html/intrestrec.php on line 52
+[01-Aug-2025 14:38:44 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrec.php on line 55
+[01-Aug-2025 14:38:44 UTC] PHP Warning:  Undefined array key 5 in /home/chicken1/public_html/intrestrec.php on line 52
+[01-Aug-2025 14:38:44 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrec.php on line 55
+[01-Aug-2025 14:38:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:49 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:52 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:38:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:39:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/invite.php on line 72
+[01-Aug-2025 14:39:16 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:39:17 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[01-Aug-2025 14:39:28 UTC] PHP Warning:  Undefined array key "username" in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 14:39:28 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 14:39:28 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 14:39:28 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 14:39:28 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/register.php on line 18
+[01-Aug-2025 14:39:28 UTC] PHP Warning:  Undefined array key 46 in /home/chicken1/public_html/register.php on line 33
+[01-Aug-2025 14:40:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/register.php on line 18
+[01-Aug-2025 14:40:00 UTC] PHP Warning:  Undefined variable $addwin0 in /home/chicken1/public_html/register.php on line 120
+[01-Aug-2025 14:40:00 UTC] PHP Deprecated:  mysqli::query(): Passing null to parameter #1 ($query) of type string is deprecated in /home/chicken1/public_html/register.php on line 120
+[01-Aug-2025 14:40:00 UTC] PHP Fatal error:  Uncaught ValueError: mysqli::query(): Argument #1 ($query) cannot be empty in /home/chicken1/public_html/register.php:120
+Stack trace:
+#0 /home/chicken1/public_html/register.php(120): mysqli->query('')
+#1 {main}
+  thrown in /home/chicken1/public_html/register.php on line 120
+[01-Aug-2025 16:50:03 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 16:50:03 UTC] PHP Warning:  Undefined array key 4 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 16:50:03 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 16:50:03 UTC] PHP Warning:  Undefined array key 4 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 16:50:03 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 16:50:03 UTC] PHP Warning:  Undefined array key 4 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 16:57:33 UTC] PHP Warning:  Undefined array key "username" in /home/chicken1/public_html/forgot_pass.php on line 8
+[01-Aug-2025 16:57:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/forgot_pass.php on line 8
+[01-Aug-2025 16:57:33 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/forgot_pass.php on line 9
+[01-Aug-2025 16:57:33 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/forgot_pass.php on line 9
+[01-Aug-2025 16:57:33 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/forgot_pass.php on line 13
+[01-Aug-2025 16:57:38 UTC] PHP Warning:  Undefined array key "username" in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 16:57:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 16:57:38 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 16:57:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 16:57:38 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/register.php on line 18
+[01-Aug-2025 20:32:16 UTC] PHP Warning:  Undefined array key "username" in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 20:32:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 20:32:16 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 20:32:16 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 20:32:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/register.php on line 18
+[01-Aug-2025 20:35:58 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 20:35:58 UTC] PHP Warning:  Undefined array key 4 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 20:35:58 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 20:35:58 UTC] PHP Warning:  Undefined array key 4 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 20:35:58 UTC] PHP Warning:  Undefined array key 3 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 20:35:58 UTC] PHP Warning:  Undefined array key 4 in /home/chicken1/public_html/intrestrecord.php on line 19
+[01-Aug-2025 20:36:07 UTC] PHP Warning:  Undefined variable $dataRow in /home/chicken1/public_html/inviterec.php on line 285
+[01-Aug-2025 20:36:13 UTC] PHP Warning:  Undefined variable $dataRow in /home/chicken1/public_html/inviterec.php on line 285
+[01-Aug-2025 20:39:36 UTC] PHP Warning:  Undefined array key "username" in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 20:39:36 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 13
+[01-Aug-2025 20:39:36 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 20:39:36 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/register.php on line 14
+[01-Aug-2025 20:39:36 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/register.php on line 18
+[02-Aug-2025 05:30:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:30:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:30:28 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/chicken1/public_html/pay.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/pay.php on line 13
+[02-Aug-2025 05:30:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "upi" in /home/chicken1/public_html/pay.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/pay.php on line 13
+[02-Aug-2025 05:30:55 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:30:56 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:31:04 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:31:05 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:31:06 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:31:07 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "balance" in /home/chicken1/public_html/balance.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/chicken1/public_html/balance.php on line 15
+[02-Aug-2025 05:31:11 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/bankcard.php on line 15
+[02-Aug-2025 05:31:11 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/bankcard.php on line 15
+[02-Aug-2025 05:31:25 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/bankcard.php on line 15
+[02-Aug-2025 05:31:25 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/bankcard.php on line 15
+[02-Aug-2025 05:31:25 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/chicken1/public_html/bankcard.php on line 22
+[02-Aug-2025 05:31:29 UTC] PHP Warning:  Undefined array key "otp" in /home/chicken1/public_html/bankcard.php on line 15
+[02-Aug-2025 05:31:29 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/chicken1/public_html/bankcard.php on line 15

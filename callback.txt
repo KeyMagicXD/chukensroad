@@ -1,0 +1,17 @@
+SQL Queries:
+Query 1 (SELECT): SELECT order_id, order_no, order_amount, userid, payphone FROM cxrpays WHERE status = 'pending' AND order_no = ?
+Query 2 (UPDATE): UPDATE cxrpays SET status = 'completed' WHERE order_no = ?
+
+User balance updated successfully.
+
+JSON Data:
+{
+    "mer_no": "8890359",
+    "order_no": "665e97394b3fa1717475129",
+    "paytypecode": "11003",
+    "order_amount": "500.0000",
+    "order_realityamount": "500.0000",
+    "status": "success",
+    "sys_no": "KS2406041225299205182899",
+    "sign": "0a3e654ff7e62e39149e163c3c3dc30a"
+}
